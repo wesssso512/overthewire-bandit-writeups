@@ -43,7 +43,7 @@ bandit-writeups/
 
 ### 🟢 Beginner (Level 0-10) — Linux Basics
 | Level | Key Concept | EN |
-|---|---|---|---|
+|---|---|---|
 | 0 → 1 | SSH Connection | (writeups/level-00-01.md) |
 | 1 → 2 | Reading special filenames | (writeups/level-01-02.md) |
 | 2 → 3 | Spaces in filenames | (writeups/level-02-03.md) |
@@ -56,8 +56,8 @@ bandit-writeups/
 | 9 → 10 | strings in binary | (writeups/level-09-10.md) |
 
 ### 🟡 Intermediate (Level 11-20) — Encoding & Connections
-| Level | Key Concept | EN | AR |
-|---|---|---|---|
+| Level | Key Concept | EN |
+|---|---|---|
 | 10 → 11 | Base64 | (writeups/level-10-11.md) |
 | 11 → 12 | ROT13 / tr | (writeups/level-11-12.md) |
 | 12 → 13 | Hex dump + compression | (writeups/level-12-13.md) |
@@ -70,8 +70,8 @@ bandit-writeups/
 | 19 → 20 | SUID binary | (writeups/level-19-20.md) |
 
 ### 🔴 Advanced (Level 21-34) — Scripting & Real Hacking
-| Level | Key Concept | EN | AR |
-|---|---|---|---|
+| Level | Key Concept | EN |
+|---|---|---|
 | 20 → 21 | Netcat listener | (writeups/en/level-20-21.md) |
 | 21 → 22 | Cronjobs | (writeups/en/level-21-22.md) |
 | 22 → 23 | Bash scripting | (writeups/en/level-22-23.md) |
