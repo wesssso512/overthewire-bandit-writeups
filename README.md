@@ -42,7 +42,7 @@ bandit-writeups/
 ## 🚀 Quick Navigation
 
 ### 🟢 Beginner (Level 0-10) — Linux Basics
-| Level | Key Concept | EN | AR |
+| Level | Key Concept | EN |
 |---|---|---|---|
 | 0 → 1 | SSH Connection | (writeups/level-00-01.md) |
 | 1 → 2 | Reading special filenames | (writeups/level-01-02.md) |
