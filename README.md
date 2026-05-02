@@ -8,7 +8,7 @@
 ![Language](https://img.shields.io/badge/Language-Arabic%20%2B%20English-00e5ff?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
-> ⚡ All levels solved **without hints or walkthroughs** — pure problem solving.
+> ⚡ All levels solved **Full experience** — pure problem solving.
 
 </div>
 
